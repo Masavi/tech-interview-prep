@@ -2,8 +2,6 @@
 
 In this breakout session, you'll have an opportunity to review the content you've learned already in preparation for your upcoming Tech Interviews. For this breakout, be ready to share any questions that you have relating to Tech Interviews.
 
-## Topics covered 'till week 6
-
 ### Tools and Technologies
 ---
 - Git & Github -> Version Control Systems (VCS) (priority)
