@@ -2,6 +2,8 @@
 
 In this breakout session, you'll have an opportunity to review the content you've learned already in preparation for your upcoming Tech Interviews. For this breakout, be ready to share any questions that you have relating to Tech Interviews.
 
+[Breakout recording here](https://vimeo.com/774483029/c5c8dae757)
+
 ### Tools and Technologies
 ---
 - Git & Github -> Version Control Systems (VCS) (priority)
